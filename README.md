@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a Computer Science student who enjoys turning ideas into real, working software. I’m currently working on full-stack web applications and system-level projects that strengthen my understanding of how things function behind the scenes.<br><br>I’m looking to collaborate on meaningful open-source or real-world projects where I can contribute, learn, and grow alongside other passionate developers. I’m also open to guidance on building scalable systems and improving code architecture.<br><br>I’m currently learning advanced backend development, data structures & algorithms, and exploring modern development tools.
+I’m a Computer Engineering student who enjoys turning ideas into real, working software. I’m currently working on full-stack web applications and system-level projects that strengthen my understanding of how things function behind the scenes.<br><br>I’m looking to collaborate on meaningful open-source or real-world projects where I can contribute, learn, and grow alongside other passionate developers. I’m also open to guidance on building scalable systems and improving code architecture.<br><br>I’m currently learning advanced backend development, data structures & algorithms, and exploring modern development tools.
 
 
 ## 🌐 Socials:
